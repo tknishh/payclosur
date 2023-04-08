@@ -1,4 +1,5 @@
 # EscrowPay
+EscrowPay is a blockchain-based payment system with smart contract functionality for secure, efficient, and transparent fund management.
 
 ## Description
 EscrowPay is a blockchain-based payment system with smart contract functionality. It provides a more secure, efficient, and transparent way for individuals and organizations to make payments and manage funds in various sectors and use cases, including auctions, escrow funds, charity funds, crowdfunding, real estate, healthcare, supply chain management, education, and government services.
