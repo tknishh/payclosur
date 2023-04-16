@@ -1,7 +1,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/78642104/232325769-5b27eed1-6fa9-4784-b15c-b59c5f97527b.jpeg)
 
-## Decription
+## Description
 PayClosur is an innovative fintech project that provides a secure and reliable platform for online payments and transactions. Our use of smart contracts and escrow services ensures the security and transparency of all transactions, protecting both buyers and sellers from fraud and misrepresentation. With PayClosur, you can transfer money with complete confidence and enjoy a hassle-free online payment experience.
 
 ## Problem
@@ -35,15 +35,15 @@ PayClosure uses blockchain technology to record transactions and ensure that the
 - Education: Manage payments for educational expenses, including tuition fees and scholarships, with greater transparency and efficiency.
 - Government services: Manage payments for government services, including taxes, fines, and fees, with greater efficiency and transparency.
 
-##Future Deliverables:
+## Future Deliverables:
 
--#Adding UPI Payment Integration:
+- Adding UPI Payment Integration:
 PayClosur aims to make online payments and transactions more accessible and convenient for users. As part of our commitment to improving our platform, we plan to integrate UPI payment functionality into our existing blockchain payment system. This will allow users to transfer money quickly and easily using their UPI accounts, while still benefiting from the security and transparency of our blockchain-based system.
 
--#Continuous Improvement:
+- Continuous Improvement:
 We are committed to providing the best possible user experience on our platform. To this end, we will continue to improve and optimize PayClosur's functionality and performance. We will listen closely to user feedback and suggestions, and use this information to guide our development efforts.
 
--#Integration with Other Platforms:
+- Integration with Other Platforms:
 In the future, we plan to integrate PayClosur with other online platforms and services, to make it even more convenient and accessible for our users. This may include integration with popular e-commerce platforms, social media platforms, and other online marketplaces. By expanding our reach and integration, we hope to provide users with a seamless and hassle-free payment experience, no matter where they are or what they are buying.
 
 ## Conclusion
