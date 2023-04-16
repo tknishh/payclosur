@@ -49,8 +49,8 @@ In the future, we plan to integrate PayClosur with other online platforms and se
 ## Conclusion
 PayClosure has the potential to revolutionize the way we make payments and manage funds. By providing greater security, efficiency, and transparency, this system can help build trust and confidence in the payment system, increasing participation and revenue in various sectors and use cases.
 
-Installation
-Clone the repository: git clone https://github.com/your-username/datavault.git
+## Installation
+Clone the repository: git clone https://github.com/your-username/payclosur.git
 Install dependencies: npm install/ npm i
 Build the project: npm run build
 Start the server: npm run dev
