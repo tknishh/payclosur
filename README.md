@@ -50,7 +50,7 @@ In the future, we plan to integrate PayClosur with other online platforms and se
 With PayClosur, users can transfer money with complete confidence and enjoy a hassle-free online payment experience. Our platform is designed to be user-friendly and accessible to anyone, regardless of their technical expertise.
 
 ## Installation
-Clone the repository: git clone https://github.com/tknishh/payclosur.git
-Install dependencies: npm install/ npm i
-Build the project: npm run build
-Start the server: npm run dev
+- Clone the repository: `git clone https://github.com/tknishh/payclosur.git`
+- Install dependencies: `npm install/ npm i`
+- Build the project: `npm run build`
+- Start the server: `npm run dev`
