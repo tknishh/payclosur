@@ -54,3 +54,4 @@ With PayClosur, users can transfer money with complete confidence and enjoy a ha
 - Install dependencies: `npm install/ npm i`
 - Build the project: `npm run build`
 - Start the server: `npm run dev`
+- ..
