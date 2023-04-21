@@ -10,6 +10,10 @@ In today's digital landscape, online payments have become increasingly prevalent
 ## Solution
 PayClosur addresses these concerns by providing a secure and reliable platform for online payments and transactions. The use of smart contracts and an escrow service ensures the security and transparency of all transactions, giving users peace of mind when making payments online.
 
+## Flow Diagram
+
+![Flow](https://github.com/tknishh/payclosur/blob/630351f183a828324d51d7201cf22bbc7e4a3f36/Flowchart.png)
+
 ## Benefits
 - More secure, efficient, and transparent payment system
 - Increased trust and confidence in the payment system
